@@ -9,3 +9,7 @@ train.csv - we are given a training dataset with 1460 training examples and 79 e
 test.csv - we are given a test set with 1459 test examples in which we have to predict the final price of the house.
 
 data_description.txt - full description of each explanotory variable
+
+# My Code
+
+housing-prices-prediction.ipynb  - contains my code
